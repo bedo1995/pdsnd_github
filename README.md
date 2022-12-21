@@ -4,16 +4,19 @@
 21-12-2022.
 
 ### Project Title
-was a project for UD to pass the python chapter
+bikeshare project
 
 ### Description
-to analysis the data and make some meaning result for analysis
+to analysis the data and make some meaning result 
 
 ### Files used
-Include the files used
+data files
+chicago
+new york
+washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to any person tech me a thng.
 
 ### Student name
 Abdullah Mohammed AlGhamdi
