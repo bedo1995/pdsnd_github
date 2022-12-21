@@ -257,6 +257,8 @@ def main():
             break
 def show():
     print("Hope you get the information")
+    def printInfo():
+        print("progrming by Abdullah AlGhamdi")
 
 if __name__ == "__main__":
     main()
